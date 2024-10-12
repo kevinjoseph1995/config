@@ -1,0 +1,12 @@
+theme = "monokai"
+
+[keys.normal."space"]
+o = "file_picker_in_current_buffer_directory"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
